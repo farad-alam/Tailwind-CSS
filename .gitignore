@@ -1,0 +1,14 @@
+# Ignore node_modules in all subdirectories
+node_modules/
+output/
+.vscode/
+
+
+.vscode
+
+
+# Ignore specific file types globally
+*.log
+*.env
+*.tmp
+
